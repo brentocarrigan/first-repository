@@ -23,3 +23,5 @@ This project requires a computer and internet.
 ***bold & italic***
 
 Course delivery improved
+
+This is a change by Jo: can you see it?
